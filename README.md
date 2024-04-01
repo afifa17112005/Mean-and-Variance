@@ -1,5 +1,5 @@
-     NAME:A.AFIFA
-    REGISTER NUMBER:212223040008
+     NAME:Amirthavarshini.R.D
+    REGISTER NUMBER:212223040013
 # EX:1 Mean and variance of a discrete  distribution
  
 
