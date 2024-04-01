@@ -1,7 +1,7 @@
      NAME:Amirthavarshini.R.D
     REGISTER NUMBER:212223040013
 # EX:1 Mean and variance of a discrete  distribution
-
+ 
 
 # Aim : 
 
