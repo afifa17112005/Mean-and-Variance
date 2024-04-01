@@ -1,5 +1,5 @@
- ## NAME:KIRAN BALAJI.H
- ## REGISTER NUMBER:212223040096
+ ## NAME:A.AFIFA
+ ## REGISTER NUMBER:212223040008
 # EX:1 Mean and variance of a discrete  distribution
  
 
