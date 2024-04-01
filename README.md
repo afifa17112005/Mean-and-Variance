@@ -1,3 +1,4 @@
+
                                                                         NAME:A.AFIFA
                                                                         REGISTER NUMBER:212223040008
 # EX:1 Mean and variance of a discrete  distribution
